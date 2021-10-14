@@ -1,2 +1,2 @@
-# sprint2
-Sprint2 for Web development
+# sprint-2
+Sprint-2 for Web development
